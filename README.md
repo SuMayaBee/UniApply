@@ -31,9 +31,9 @@
   - Upload photo, signature, and quota data
 
 ---
-<div align="center">
+
 ![ChatGPT_Image_May_30__2025__10_37_30_PM__1_-removebg-preview](https://github.com/user-attachments/assets/493e7049-d1bd-492f-90e6-a5709983c436)
-</div>
+
 
 ## 💡 Why UniApply?
 
