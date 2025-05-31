@@ -1,4 +1,8 @@
-# UniApply – The Common Admission App for Bangladesh 🎓
+<div align="center">
+
+# 🎓 UniApply – The Common Admission App for Bangladesh
+
+</div>
 
 **UniApply** is a mobile application built with **React Native**, designed to centralize and simplify the university admission process for Bangladeshi students. It allows applicants to apply to multiple public and private universities (undergraduate, master’s, and PhD programs) from a single platform—minimizing stress, saving time, and improving access to higher education.
 
