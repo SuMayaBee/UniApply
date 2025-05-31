@@ -8,9 +8,6 @@
 
 ---
 
-![ChatGPT Image May 30, 2025, 10_37_30 PM (1)](https://github.com/user-attachments/assets/e7a3be80-bdbc-4aaa-976e-9c389b2aaed4)
-
-
 ## 📱 Features
 
 - 🔍 **University Discovery**
@@ -35,6 +32,8 @@
   - Upload photo, signature, and quota data
 
 ---
+![ChatGPT_Image_May_30__2025__10_37_30_PM__1_-removebg-preview](https://github.com/user-attachments/assets/493e7049-d1bd-492f-90e6-a5709983c436)
+
 
 ## 💡 Why UniApply?
 
