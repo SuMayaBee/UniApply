@@ -8,6 +8,9 @@
 
 ---
 
+![ChatGPT Image May 30, 2025, 10_37_30 PM (1)](https://github.com/user-attachments/assets/e7a3be80-bdbc-4aaa-976e-9c389b2aaed4)
+
+
 ## 📱 Features
 
 - 🔍 **University Discovery**
